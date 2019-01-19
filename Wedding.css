@@ -1,0 +1,46 @@
+
+
+
+
+.Header img {
+    border-radius: 10%; 
+}
+
+.container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    font-family: 'Charm', cursive;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: #FBFCFC;
+    color: #E8DAEF;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20%;
+  }
+h4 {
+    font-family: 'Charm', cursive;
+
+
+}
+h1 {
+    font-family: 'Charm', cursive;
+
+}
+
+img {
+
+    border-radius: 5px
+}
+
+img {
+    margin: 4%
+
+}
+
+
+
